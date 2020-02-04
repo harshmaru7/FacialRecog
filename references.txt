@@ -1,0 +1,12 @@
+References
+
+https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7550082&tag=1
+
+https://arxiv.org/pdf/1712.00193.pdf
+
+https://www.researchgate.net/publication/318138434_Prediction_of_Human_Ethnicity_from_Fa
+cial_Images_Using_Neural_Networks
+
+https://pastel.archives-ouvertes.fr/tel-01725853/document
+
+https://pdfs.semanticscholar.org/acf8/c98241329a8c83f8d870702e56b048675a36.pdf
